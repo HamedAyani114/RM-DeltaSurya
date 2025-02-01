@@ -50,10 +50,15 @@
 
 akun
 
-username: Admin password: admin -> Administrator
+username: Admin | password: admin -> Administrator
 
-username: Dokter password: dokter -> periksa pasien
+username: Dokter | password: dokter -> periksa pasien
 
-username: Perawat password: perawat -> menambahkan pasien dan mengarahkan pasien ke antrian
+username: Perawat | password: perawat -> menambahkan pasien dan mengarahkan pasien ke antrian
 
-username: Apoteker password: apoteker -> menyiapkan obat
+username: Apoteker | password: apoteker -> menyiapkan obat
+
+
+## ERD
+
+![1738416504069](image/README/1738416504069.png)
