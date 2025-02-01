@@ -1,4 +1,4 @@
-# Cara Menjalankan Project Laravel
+# Cara Menjalankan Project
 
 1. Clone repository dari GitHub:
 
@@ -46,3 +46,10 @@
     ```
     http://localhost:8000
     ```
+11. Login
+
+akun
+username: Admin password: admin -> Administrator
+username: Dokter password: dokter -> periksa pasien
+username: Perawat password: perawat -> menambahkan pasien dan mengarahkan pasien ke antrian
+username: Apoteker password: apoteker -> menyiapkan obat
